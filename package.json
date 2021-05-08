@@ -1,0 +1,19 @@
+{
+  "name": "luchatuyuca",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimesacardenas/luchatuyuca.git"
+  },
+  "author": "Juan Ibrahin Mesa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jimesacardenas/luchatuyuca/issues"
+  },
+  "homepage": "https://github.com/jimesacardenas/luchatuyuca#readme"
+}
